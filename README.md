@@ -76,11 +76,6 @@ This project presents an **Interactive Retail Analytics Dashboard** built using 
 
 ---
 
-## 📷 Dashboard Preview
-
-![Retail Analytics Dashboard](Images/Dashboard.png)
-
----
 
 ## 📂 Project Structure
 
