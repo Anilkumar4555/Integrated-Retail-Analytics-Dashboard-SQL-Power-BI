@@ -6,6 +6,18 @@ This project presents an **Interactive Retail Analytics Dashboard** built using 
 
 ---
 
+## 🎯 Project Objectives
+
+- Develop an interactive retail analytics dashboard to monitor overall business performance.
+- Track key business KPIs, including Total Sales, Total Profit, Total Orders, Total Customers, and Profit Margin.
+- Analyze monthly sales trends to identify growth patterns and seasonal performance.
+- Compare regional sales and profitability to identify high-performing markets.
+- Evaluate product performance by identifying the top 10 products based on sales.
+- Analyze customer segments to understand purchasing behavior across Consumer, Corporate, and Home Office customers.
+- Monitor sales distribution across product categories and shipping modes.
+- Enable dynamic filtering using Region, Category, and Segment slicers for interactive business analysis.
+- Transform retail data into actionable insights to support strategic and data-driven decision-making.
+
 ## 🎯 Key Features
 
 - KPI Tracking
